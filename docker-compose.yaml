@@ -57,7 +57,7 @@ services:
       interval: 1s
       timeout: 30s
       retries: 60
-  
+
   proxy-forum-api:
     image: nginx
     container_name: proxy-forum-api
