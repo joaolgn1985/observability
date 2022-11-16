@@ -4,11 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc7e29a4-63ed-448a-bb72-72a8b5e8f030" name="Changes" comment="" />
+    <list default="true" id="bc7e29a4-63ed-448a-bb72-72a8b5e8f030" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alertmanager/alertmanager.yml" beforeDir="false" afterPath="$PROJECT_DIR$/alertmanager/alertmanager.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grafana/grafana.db" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/grafana.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHXWVQRQ243WB5XW98NT165B/chunks/000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHXWVQRQ243WB5XW98NT165B/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHXWVQRQ243WB5XW98NT165B/meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHXWVQRQ243WB5XW98NT165B/tombstones" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHY3QHWYRGQ0H0AMJBWWGBWY/chunks/000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHY3QHWYRGQ0H0AMJBWWGBWY/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHY3QHWYRGQ0H0AMJBWWGBWY/meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHY3QHWYRGQ0H0AMJBWWGBWY/tombstones" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHY3QK8JF5NAC1PRT34CSNWQ/chunks/000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHY3QK8JF5NAC1PRT34CSNWQ/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHY3QK8JF5NAC1PRT34CSNWQ/meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHY3QK8JF5NAC1PRT34CSNWQ/tombstones" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHYAK5XPW7E4H1YEABVKFHS5/chunks/000001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHYAK5XPW7E4H1YEABVKFHS5/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHYAK5XPW7E4H1YEABVKFHS5/meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/01GHYAK5XPW7E4H1YEABVKFHS5/tombstones" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/chunks_head/000007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/chunks_head/000008" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/chunks_head/000009" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/chunks_head/000010" beforeDir="false" afterPath="$PROJECT_DIR$/prometheus/prometheus_data/chunks_head/000010" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prometheus/prometheus_data/wal/00000010" beforeDir="false" afterPath="$PROJECT_DIR$/prometheus/prometheus_data/wal/00000010" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -33,6 +64,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2HOXHtbzBOnv8qzR53DDc0xqc5D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,5 +102,16 @@
       <updated>1668157031798</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

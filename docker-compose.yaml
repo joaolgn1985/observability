@@ -95,6 +95,20 @@ services:
     depends_on:
       - proxy-forum-api
 
+  alertmanager-forum-api:
+    image: prom/alertmanager
+    container_name: alertmanager-forum-api
+    volumes:
+      - ./alertmanager:/etc/alertmanager/:ro
+    ports:
+      - 9093:9093
+    command:
+      - --config.file=/etc/alertmanager/alertmanager.yml
+    networks:
+      - monit
+    depends_on:
+      - prometheus-forum-api
+
   grafana-forum-api:
     image: grafana/grafana
     container_name: grafana-forum-api
@@ -106,7 +120,7 @@ services:
     networks:
       - monit
     depends_on:
-      - prometheus-forum-api
+      - alertmanager-forum-api
 
   client-forum-api:
     build:
